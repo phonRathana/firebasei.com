@@ -6,11 +6,11 @@ https://www.gstatic.com/firebasejs/9.19.1/firebase-app.js
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=XRSAdkBrL-0_vtn9jlrbMw&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-NZ996QB');</script>
+})(window,document,'script','dataLayer','G-P08HKS4NF3');</script>
 <!-- End Google Tag Manager -->
 <body/>
 
-</body>
+    </body>
 
 dependencies {
 
@@ -41,20 +41,35 @@ dependencies {
            <html></html> httpsrathanaphon.Website.co.in.
 
            analytics 4 <body style="background-color:powderblue;"></body>
-
-
-
-           
-
+  
   < style>body{
 
   background-color:powderblue;
 
 }</style><script></script> 
+
 <!-- Google Tag Manager (noscript) -->
 
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NZ996QB&gtm_auth=XRSAdkBrL-0_vtn9jlrbMw&gtm_preview=env-2&gtm_cookies_win=x"
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-P08HKS4NF3&gtm_auth=XRSAdkBrL-0_vtn9jlrbMw&gtm_preview=env-2&gtm_cookies_win=x"
 
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 <!-- End Google Tag Manager (noscript) -->
+
+
+
+
+           
+
+
+
+
+
+
+
+
+
+
+
+
+
