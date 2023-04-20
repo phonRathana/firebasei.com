@@ -1,60 +1,85 @@
 # JavaScript
 https://www.gstatic.com/firebasejs/9.19.1/firebase-app.js
+<!doctype html> 
+<html
 
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl+ '&gtm_auth=XRSAdkBrL-0_vtn9jlrbMw&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','G-P08HKS4NF3');</script>
-<!-- End Google Tag Manager -->
-<body/>
+lang="en" dir="ltr">
 
-    </body>
+<haed><haed>
 
-dependencies {
+<meta name="google-signin-client-id" content="
+244145628679>
 
-  ...
 
-  implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>
+-nbkv1cfusk7kk4eni4pjvepaus73b13t.apps.googleusercontent.com"> meta name="google-signin-scope"
 
-  <html></html>
+content="profile email https://www.googleapis.com/auth/developerprofiles
 
-  <body style="background-color:powderblue;"></body>
+https://www.googleapis.com/auth/developerprofiles.award"> <meta property="og:site_name" content="Firebase">
 
-  <table></table> <html></html>
+<meta property="og:type" content="website"> <meta name="theme-color" tām ="#039be5"><meta charset="utf-8">
+
+<meta content="IE=Edge" http-equiv="X-UA-Compatible"> <meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="/_pwa/firebase/manifest.json" crossorigin="use-credentials">
+
+<link rel="preconnect" href="//www.gstatic.com" crossorigin>
+
+<link rel="preconnect" href="//fonts.gstatic.com" crossorigin> <link rel="preconnect" href="//fonts.googleapis.com" crossorigin>
+
+<link rel="preconnect" href="//apis.google.com" crossorigin>
+
+<link rel="preconnect" href="//www.google-analytics.com" crossorigin> <link rel
+
+="stylesheet" href="//fonts.googleapis.com/css?family=Google+Sans: 400
+
+,500 Roboto:400, 400italic,500, 500italic, 700,700italic | Roboto+Mono: 400,500
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyDl101dg7MMImYhqHISnsZUBOv1up-bNw8",
+  authDomain: "httpsrathanaphonwebsitcoin.firebaseapp.com",
+  projectId: "httpsrathanaphonwebsitcoin",
+  storageBucket: "httpsrathanaphonwebsitcoin.appspot.com",
+  messagingSenderId: "244145628679",
+  appId: "1:244145628679:web:2fe69d36d4655399396ca2"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
+
+
+ 
+
+  
 
                      
 
-                      <tr></tr>
+                    
 
-                    <h1></h1>
+                    
 
-                 <h4></h4>
+                 
 
-                 <i><i>
+                
 
-                 <style></style>
+               
 
-              <button>Click Me!</button>
+              
 
-           <html></html> httpsrathanaphon.Website.co.in.
+           
 
-           analytics 4 <body style="background-color:powderblue;"></body>
+         
   
-  < style>body{
+ 
 
-  background-color:powderblue;
+  
 
-}</style><script></script> 
 
-<!-- Google Tag Manager (noscript) -->
-
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=G-P08HKS4NF3&gtm_auth=XRSAdkBrL-0_vtn9jlrbMw&gtm_preview=env-2&gtm_cookies_win=x"
-
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-
-<!-- End Google Tag Manager (noscript) -->
 
 
 
