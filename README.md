@@ -1,5 +1,5 @@
 # JavaScript
- 
+
 <!doctype html> 
 lang="en" dir="ltr">
    <haed><haed>
@@ -9,7 +9,7 @@ lang="en" dir="ltr">
     <!-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 <meta name="google-signin-client-id" content=244145628679>
-googlee9c9e70123469956.      "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",         "android_client_info": {apps.googleusercontent.com">"oauth2": {
+googlee9c9e70123469956.����� "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2", ������� "android_client_info": {apps.googleusercontent.com">"oauth2": {
 "client_id": "665859454684.apps.googleusercontent.com",
 "scopes": 
 <metaname="google-signin-scope
@@ -45,50 +45,8 @@ content="width=device-width, initial-scales
 		<title>Subscription Expired</title>
      <meta name="csrf-tok"en" content="4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4">                   <!-- Favicon -->
     <link rel="icon" href="https://httpsrathanaphon.websitesco./files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
-
-        <!-- Google font -->
-        <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
-        <!-- BS4 minified v1.0.0 CSS -->
-        <link rel="stylesheet" href="https:///e-store/css/bootstrap.min.css">
-        <!-- Custom minified CSS -->
-        <link rel="stylesheet" href="https:///e-store/css/custom.min.css?v=1051934873">
-        
-        <link rel="stylesheet" href="https:///e-store/css/ecommerce.min.css?v=1627190672">                                                           
-  <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
-
-        <!-- FontAwesome -->
-        <link rel="stylesheet" href="https:///e-store/fonts/css/all.min.css">
-
-        <!-- Fancybox API -->
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
-
-        <!-- slick-->
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https:///e-store/slick/slick.css"> 
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https:///e-store/slick/slick-theme.css"> 
-
-        
-        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https:///common/css/custom-toast.css">
-        
-        <!-- Select2 css files -->
-        <link media="none" onload="if(media!='all')media='all'"href="https:///common/css/select2.min.css" rel="stylesheet" />   
-       <!-- manifest request -->
-        <link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
-
-        <link rel="canonical" href="https:///index.php">
-
-        <link rel="alternate" href="https://" hreflang="en-us">
-
-        <script>
-            window.Laravel = {"csrfToken":"4FkmBWmaprPH9YwzameQlOOgfzY5wuvUvJ9HoaB4"};
-        </script>
-
-        <!-- Google Analytics -->
-
-        <script async> 
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-            ga('create', 'UA-98172888-1', 'auto'); ga('send', 'pageview');
-        </script>
-     <!-- Flutterwave -->
+                                                           
+  <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css
         <!-- <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -109,7 +67,7 @@ content="width=device-width, initial-scales
     })(
       	 <!-- End Google Tag Manager --> 
 		 src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js?v=4885402055 integrity=" crossorigin="anonymous"></script>
-    <!-- Google Tag Manager (noscript) -->     <noscript><iframe src="https://www.googletagmanager.com/ns.httsp://(<head></head>) js=<>/script><script>     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>     <!-- End Google Tag Manager (noscript) -->
+��� <!-- Google Tag Manager (noscript) --> ��� <noscript><iframe src="https://www.googletagmanager.com/ns.httsp://(<head></head>) js=<>/script><script> ��� height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> ��� <!-- End Google Tag Manager (noscript) -->
 	</head>
 	<body style="height:100vh; background-color:#eee">
 		<div class="container d-flex h-100">
@@ -124,23 +82,26 @@ content="width=device-width, initial-scales
 						<div class="card-body text-center">
 							<h5 class="card-title">Website Subscription Expired</h5>
 							<p class="card-text">
-								Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsiteco-"Buy Subscription" below, or for more info login to your https://httpsrathanaphonwebsiteco account.						
+                            {
+                                }
+								<Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsiteco-"Buy Subscription" below, or for more info login to your
+                                https://httpsrathanaphonwebsiteco account.						
 							      "description": "Business As a loyal partner sell technology",
               			Buy Subcription
                 description": "Business As a loyal partner sell technology",
               			Buy Subcription
 							</a>
 							<a href="https:// ./login" class="btn btn-outline-primary">
-								Login
+								<Login>
 							</a>							
 							<a href="https://href=https://httpsrathanaphonwebsiteco->" class="btn btn-outline-primary" target="_blank">
 							</a>
-							<br>
-							Or
+						  <br>
+					        Or
 							<br>
 							Use our
 							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
-							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://rathanaphonwebsiteco./ App
+							.websitesapp" class="btn btn-outline-primary" target="_blank">		{$)						Website.https://rathanaphonwebsiteco./ App
 							</a> <i class="fab fa-android"></i>
 						</div>
 					</div>
@@ -154,69 +115,18 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
 });
 <!DOCTYPE html>
 <haed>
-   <body/> </body> dependencies {   ...   implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>   <html></html>   <body style="background-color:powderblue;"></body>   <table></table> <html></html>                                            <tr></tr>                     <h1></h1>                  <h4></h4>                  <i><i>                  <style></style>               <button>Click Me!</button>            <html></html> httpsrathanaphon.Websiteco.#8098ff           analytics 4 <body style="background-color:powderblue;"></body>                         <style>body{   background-color:powderblue; }</style><script></script> 
-
-     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="%2F"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-<!-- Integration: Facebook Pixel Code -->
-    <script>
-             !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-        n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window, document,'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '');
-        fbq('track', 'PageView');
-      </script>
-    <noscript><img height="1" width="1" style="display:none"
-        src="https://www.facebook.com/tr?id=&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Facebook Pixel Code -->
-<!-- Integration: Google Adsense Code -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "",
-            enable_page_level_ads: true
-        });
-    </script>
-    <!-- End Google Adsense Code -->
-    </head>
-
-    <body>
-        
-        <input type="hidden" class="__website_id" id="website_id" value="971938">
-        
-                    <input type="hidden" id="businessdetails_id" value="972104">
-  <script type='application/ld+json'>
-    {
-        "@context": "http://www.schema.org",
-        "@type": "LocalBusiness",
-        "name": "Rathana phone Stork1",
-        "url": "https://",
-        "sameAs": [
+   <body/> </body> dependencies { � ... � implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label> � <html></html> � <body style="background-color:powderblue;"></body> � <table></table> <html></html> �������������������� ��������������������� <tr></tr> ������������������� <h1></h1> ���������������� <h4></h4> ���������������� <i><i> ���������������� <style></style> ������������� <button>Click Me!</button> ���������� <html></html> httpsrathanaphon.< <" Websiteco.#8098ff���������� analytics 4 <body style="background-color:powderblue;"></body> ���������� ���������� � <style>body{ � background-color:powderblue; }</style><script>
+<script>
+     <script type='application/ld+json'>  {
     
     
-    
-    
-    
-    
-    
-              
-    
+     
             
 
      	
 		
 	
                                                                            
-
-
 
 
 
