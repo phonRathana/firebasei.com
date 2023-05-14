@@ -5,11 +5,11 @@ lang="en" dir="ltr">
    <haed><haed>
          <haed><haed>
 <meta charset="utf-8">
-<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
+<script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM)
     <!-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 <meta name="google-signin-client-id" content=244145628679>
-googlee9c9e70123469956.      "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",         "android_client_info": {apps.googleusercontent.com">"oauth2": {
+googlee9c9e70123469956.      "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",  "android_client_info": {apps.googleusercontent.com">"oauth2": {
 "client_id": "665859454684.apps.googleusercontent.com",
 "scopes": 
 <metaname="google-signin-scope
@@ -17,20 +17,22 @@ googlee9c9e70123469956.      "mobilesdk_app_id": "1:244145628679:android:a7
 to property="og:type" content="website"meta name="theme-color" wm #039be5meta charset="utf-8">
 000 ceta content="IE-Edge" http-equiv="X-UA-Compatible"> seta nanes"vimport"
 content="width=device-width, initial-scales       
-<meta name="document-type" content="Public">
+
+	  <meta name="document-type" content="Public">
 <meta name="document-rating" content="Safe for Kids">
 <meta name="robots" content="ALL, INDEX, FOLLOW">
 <meta name="googlebot" content="index, follow">
 <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{
-<meta name="mobile-web-app-capable" content="yes">
+
+	<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
     <link rel="apple-touch-icon" href="https:/  /files/971938/favicon/favicon.png?v=528721588"/>
 <meta name="theme-color" content="#FFFFFF">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum
-<meta name="title" content="Rathana phone strok1 in  Phnom Penh">
+<meta name="title" content="Rathana phone stor in  Phnom Penh">
 <meta name="description" content="Business As a loyal partner sell technology">
-<meta name="author" content="Rathana phone stork1">
-<meta name="keywords" content=",Rathana phone Stork1 in Phnom Penh, in OTHER RETAIL">
+<meta name="author" content="Rathana phone stor">
+<meta name="keywords" content=",Rathana phone Stor in Phnom Penh, in OTHER RETAIL">
    </script>
      		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819
@@ -93,7 +95,7 @@ content="width=device-width, initial-scales
 <html lang="en">
 <head>
 <script
-        id="fsc-api"
+        id="fsc-api"860baea44472fcee047a2ef128d626a2b2bb6101
         src="https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.8.1/fastspring-builder.min.js"
         type="text/javascript"
         data-storefront="websites./popup-websites"
@@ -197,9 +199,9 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
     {
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
-        "name": "Rathana phone Stork1",
+        "name": "Rathana phone Stor",
         "url": "https://",
-        "sameAs": [
+        
     
     
     
