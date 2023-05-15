@@ -90,13 +90,13 @@ content="width=device-width, initial-scales
         </script>
      <!-- Flutterwave -->
         <!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-<script
+                <html lang="en">
+                   <head>
+                   <script
         id="fsc-api"
         src="https://d1f8f9xcsvx3ha.cloudfront.net/sbl/0.8.1/fastspring-builder.min.js"
         type="text/javascript"
-        data-storefront="websites./popup-websites"
+        data-storefront="websitesco./popup-websitesco"
         data-error-callback="fscCallback"
         data-popup-closed="fscPopupClosed">
     </script>
@@ -198,7 +198,7 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
         "name": "Rathana phone Store",
-        "url": "https://",
+        
        
     
     
