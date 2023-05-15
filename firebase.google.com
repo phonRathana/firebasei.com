@@ -98,7 +98,7 @@ messagingSenderId: "36947975269",
               // Initialize Firebase
                 const app = initializeApp(firebaseConfig);
                 </script>
- <!DOCTYPE html>
+     <!DOCTYPE html>
             }
        ("hello,worl")
            </haed></haed>
