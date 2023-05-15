@@ -10,7 +10,7 @@
 <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM||(NREUM={})).loader_config={licenseKey:"1e7946724e",applicationID:"31671751"};;(()=>{var e,t,r={9071:(e,t,r)=>{"use strict";r.d(t,{I:()=>n});var
      <meta name="document-type" c
 <meta name="document-rating" content="Safe for Kids">
-<meta name="robots" content="ALL, INDEX, Follow">"#8098ff"
+<meta name="robots" content="ALL, INDEX, Follow">"
 <meta name="googlebot" content="index, follow">
  <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
 <meta name="mobile-web-app-capable" content="yes">
@@ -118,5 +118,5 @@ messagingSenderId: "36947975269",
 							Use our
 							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
 							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
-							</a> <i class="fab fa-android"></i>          
+							</a> <i class="fab fa-android"></i>#8098ff  
                
