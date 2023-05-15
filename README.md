@@ -27,10 +27,10 @@ content="width=device-width, initial-scales
     <link rel="apple-touch-icon" href="https:/  /files/971938/favicon/favicon.png?v=528721588"/>
 <meta name="theme-color" content="#FFFFFF">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum
-<meta name="title" content="Rathana phone strok1 in  Phnom Penh">
+<meta name="title" content="Rathana phone stroe in  Phnom Penh">
 <meta name="description" content="Business As a loyal partner sell technology">
-<meta name="author" content="Rathana phone stork1">
-<meta name="keywords" content=",Rathana phone Stork1 in Phnom Penh, in OTHER RETAIL">
+<meta name="author" content="Rathana phone store">
+<meta name="keywords" content=",Rathana phone Store in Phnom Penh, in OTHER RETAIL">
    </script>
      		<!-- Bootstrap CSS -->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css?v=2392819
@@ -197,9 +197,9 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
     {
         "@context": "http://www.schema.org",
         "@type": "LocalBusiness",
-        "name": "Rathana phone Stork1",
+        "name": "Rathana phone Store",
         "url": "https://",
-        "sameAs": [
+       
     
     
     
