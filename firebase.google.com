@@ -1,5 +1,5 @@
-
 <!DOCTYPE html>
+<html>
 <html lang="en">
     <head><footer></footer>
           </head><haed>
@@ -15,9 +15,13 @@
  <meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-capable" content="yes">
-    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websites.co.in/files/971938/favicon/favicon.png?v=528721588"/>
+    <link rel="apple-touch-icon" href="https://httpsrathanaphon.websitesco/files//favicon/favicon.png?v=36947975269
 <meta name="theme-color" content="#FFFFFFfv6'jn+:jnv'">
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
+<meta name="geo.position" content="19.076;72.8774">
+<meta name="geo.placename" content="Phnom Penh">
+<meta name="geo.region" content="KH">
+        <title>Rathana phone Shop1 in  Phnom Penh </title>
          
 <!-- Fancybox API -->
       <!-- Google font -->
@@ -26,10 +30,48 @@
     <link rel="stylesheet" href="https:///website-store/css/bootstrap.min.css">
     <!-- Custom minified CSS -->
     <link rel="stylesheet" href="https:///website-store/css/custom.min.css?v=1051934873">
-    
+      <!-- Favicon -->
+    <link rel="icon" href="https://httpsrathanaphon.websites.co.in/files/971938/favicon/favicon.png?v=1078145314" type="image/png" />
+
+        <!-- Google font -->
+        <link rel="preload" as="font" href="https://fonts.googleapis.com/css?family=Playfair+Display|Roboto" onload="this.rel='stylesheet'">
+        <!-- BS4 minified v1.0.0 CSS -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websites.co/e-store/css/bootstrap.min.css">
+        <!-- Custom minified CSS -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websitesco./e-store/css/custom.min.css?v=
+        
+        <link rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/css/ecommerce.min.css?v=
+
+        
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.5.0/css/ol.css" type="text/css">
+
+        <!-- FontAwesome -->
+        <link rel="stylesheet" href="https://httpsrathanaphon.websitesco./e-store/fonts/css/all.min.css">
+
+        <!-- Fancybox API -->
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+
+        <!-- slick-->
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/slick/slick.css"> 
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websitesco/e-store/slick/slick-theme.css"> 
+
+        
+        <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://httpsrathanaphon.websites.co.in/common/css/custom-toast.css">
+        
+        <!-- Select2 css files -->
+        <link media="none" onload="if(media!='all')media='all'"href="https://httpsrathanaphon.websites.co.in/common/css/select2.min.css" rel="stylesheet" />
+
+        <!-- manifest request -->
+        <link rel="manifest" href="/manifest.json?theme_color=%23FFFFFF">
+
+        <link rel="canonical" href="https://httpsrathanaphon.websitesco/index.php">
+
+        <link rel="alternate" href="https://httpsrathanaphon.websitesco." hreflang="en-us">
+
+        <script>   
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="ga_trackingId" translatable="false">UA-65557217-3</string>
+    <string name="ga_trackingId" translatable="false"UA-98172888-1</string>337894902146-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com
 </resources>
 
 
@@ -39,7 +81,7 @@
     <! -- Present in applications with the appropriate services configured -->
     <string name="gcm_defaultSenderId" translatable="false">1035469437089</string>
     <string name="default_web_client_id" translatable="false">337894902146-e4uksm38sne0bqrj6uvkbo4oiu4hvigl.apps.googleusercontent.com</string>
-    <string name="ga_trackingId" translatable="false">UA-65557217-3</string>
+    <string name="ga_trackingId" translatable="false">UA-98172888-1</string>
     <string name="firebase_database_url" translatable="false">https://example-url.firebaseio.com</string>
     <string name="google_api_key" translatable="false">AIzbSyCILMsOuUKwN3qhtxrPq7FFemDJUAXTyZ8</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzbSyCILMsOuUKwN3qhtxrPq7FFemDJUAXTyZ8</string>
@@ -95,7 +137,16 @@ messagingSenderId: "36947975269",
 						<div class="row">
 							<div class="col-md-4 mx-auto">
 								<img    
-              // Initialize Firebase
+                                               </a>
+							<br>
+							Or
+							<br>
+							Use our
+							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
+							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
+							</a> <i class="fab fa-android"></i>#8098ff  
+               
+	    // Initialize Firebase
                 const app = initializeApp(firebaseConfig);
                 </script>
      <!DOCTYPE html>
@@ -111,12 +162,12 @@ messagingSenderId: "36947975269",
                           messagingSenderId: "36947975269",
                            appId: "1:36947975269:web:89c4c20f22566f7485fa8c"
      a href="https://href=https://httpsrathanaphonwebsiteco->" class="btn btn-outline-primary" target="_blank">
-							</a>
-							<br>
-							Or
-							<br>
-							Use our
-							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
-							.websitesapp" class="btn btn-outline-primary" target="_blank">								Website.https://httpsrathanaphonwebsiteco./ App
-							</a> <i class="fab fa-android"></i>#8098ff  
+							
+							
+							
+							
+							
+							
+													
+							
                
