@@ -9,7 +9,7 @@ lang="en" dir="ltr">
     <!-- Fancybox API -->
         <link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
 <meta name="google-signin-client-id" content=244145628679>
-googlee9c9e70123469956.����� "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2", ������� "android_client_info": {apps.googleusercontent.com">"oauth2": {
+googlee9c9e70123469956. "mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2", "android_client_info": {apps.googleusercontent.com">"oauth2": {
 "client_id": "665859454684.apps.googleusercontent.com",
 "scopes": 
 <metaname="google-signin-scope
@@ -67,7 +67,7 @@ content="width=device-width, initial-scales
     })(
       	 <!-- End Google Tag Manager --> 
 		 src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js?v=4885402055 integrity=" crossorigin="anonymous"></script>
-��� <!-- Google Tag Manager (noscript) --> ��� <noscript><iframe src="https://www.googletagmanager.com/ns.httsp://(<head></head>) js=<>/script><script> ��� height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> ��� <!-- End Google Tag Manager (noscript) -->
+ <!-- Google Tag Manager (noscript) --> � <noscript><iframe src="https://www.googletagmanager.com/ns.httsp://(<head></head>) js=<>/script><script>  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>?<!-- End Google Tag Manager (noscript) -->
 	</head>
 	<body style="height:100vh; background-color:#eee">
 		<div class="container d-flex h-100">
@@ -101,7 +101,7 @@ content="width=device-width, initial-scales
 							<br>
 							Use our
 							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
-							.websitesapp" class="btn btn-outline-primary" target="_blank">		{$)						Website.https://rathanaphonwebsiteco./ App
+							.websitesapp" class="btn btn-outline-primary" target="_blank">		{$)						Website.https://rathanaphonwebsiteco./App 
 							</a> <i class="fab fa-android"></i>
 						</div>
 					</div>
@@ -115,7 +115,7 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
 });
 <!DOCTYPE html>
 <haed>
-   <body/> </body> dependencies { � ... � implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label> � <html></html> � <body style="background-color:powderblue;"></body> � <table></table> <html></html> �������������������� ��������������������� <tr></tr> ������������������� <h1></h1> ���������������� <h4></h4> ���������������� <i><i> ���������������� <style></style> ������������� <button>Click Me!</button> ���������� <html></html> httpsrathanaphon.< <" Websiteco.#8098ff���������� analytics 4 <body style="background-color:powderblue;"></body> ���������� ���������� � <style>body{ � background-color:powderblue; }</style><script>
+   <body/> </body> dependencies {  ... implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label> � <html></html> � <body style="background-color:powderblue;"></body> � <table></table> <html></html>  <tr>$1</tr>  <h1>$1</h1> <h4>$2</h4> <i>$1<i> <style></style>  <button>Click Me!</button> <html></html> httpsrathanaphon.< <" Websiteco.#8098ffanalytics 4 <body style="background-color:powderblue;"></body>  <style>body{ � background-color:powderblue; }</style><script>
 <script>
      <script type='application/ld+json'>  {
     
