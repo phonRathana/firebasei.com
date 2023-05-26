@@ -1,9 +1,11 @@
-# JavaScript
+"@context": "http://www.schema.org",
  
 <!doctype html> 
 lang="en" dir="ltr">
-   <haed><haed>
-         <haed><haed>
+<html>
+ </haed>
+	 </head><haed>
+		( hello the world )   
 <meta charset="utf-8">
 <script type="text/javascript">(window.NREUM||(NREUM={})).init={ajax:{deny_list:["bam.nr-data.net"]}};(window.NREUM)
     <!-- Fancybox API -->
@@ -102,7 +104,7 @@ content="width=device-width, initial-scales
         data-error-callback="fscCallback"
         data-popup-closed="fscPopupClosed">
     </script>
-    <!-- End Google Analytics -->
+        <!-- End Google Analytics -->
 <!-- Integration: Google Tag Manager -->
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
@@ -113,7 +115,7 @@ content="width=device-width, initial-scales
 		 src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js?v=4885402055 integrity=" crossorigin="anonymous"></script>
     <!-- Google Tag Manager (noscript) -->     <noscript><iframe src="https://www.googletagmanager.com/ns.httsp://(<head></head>) js=<>/script><script>     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>     <!-- End Google Tag Manager (noscript) -->
 	</head>
-	<body style="height:100vh; background-color:#eee">
+	<body style="height:100vh; background-color: #8098ff,">
 		<div class="container d-flex h-100">
 			<div class="row justify-content-center align-self-center">
 				<div class="col-md-10 mx-auto">
@@ -126,7 +128,7 @@ content="width=device-width, initial-scales
 						<div class="card-body text-center">
 							<h5 class="card-title">Website Subscription Expired</h5>
 							<p class="card-text">
-								Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsiteco-"Buy Subscription" below, or for more info login to your https://httpsrathanaphonwebsiteco account.						
+								Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsiteco-/"Buy Subscription" below, or for more info login to your https://httpsrathanaphonwebsiteco/ account.						
 							      "description": "Business As a loyal partner sell technology",
               			Buy Subcription
                 description": "Business As a loyal partner sell technology",
@@ -135,7 +137,7 @@ content="width=device-width, initial-scales
 							<a href="https:// ./login" class="btn btn-outline-primary">
 								Login
 							</a>							
-							<a href="https://href=https://httpsrathanaphonwebsiteco->" class="btn btn-outline-primary" target="_blank">
+							<a href="https://href=https://httpsrathanaphonwebsiteco-/>" class="btn btn-outline-primary" target="_blank">
 							</a>
 							<br>
 							Or
@@ -156,7 +158,7 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
 });
 <!DOCTYPE html>
 <haed>
-   <body/> </body> dependencies {   ...   implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>   <html></html>   <body style="background-color:powderblue;"></body>   <table></table> <html></html>                                            <tr></tr>                     <h1></h1>                  <h4></h4>                  <i><i>                  <style></style>               <button>Click Me!</button>            <html></html> httpsrathanaphon.Websiteco.#8098ff           analytics 4 <body style="background-color:powderblue;"></body>                         <style>body{   background-color:powderblue; }</style><script></script> 
+   <body/> </body> dependencies {   ...   implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>   <html></html>   <body style="background-color:powderblue;"></body>   <table></table> <html></html>                                            <tr></tr>                     <h1></h1>                  <h4></h4>                  <i><i>                  <style></style>               <button>Click Me!</button>            <html></html> httpsrathanaphon.Websiteco.           analytics 4 <body style="background-color:powderblue;"></body>                         <style>bod background-color:powderblue; }</style><script></script> 
 
      <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="%2F"
@@ -197,10 +199,10 @@ chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
                     <input type="hidden" id="businessdetails_id" value="972104">
   <script type='application/ld+json'>
     {
-        "@context": "http://www.schema.org",
-        "@type": "LocalBusiness",
-        "name": "Rathana phone Stor",
-        "url": "https://",
+      
+    
+     
+      
         
     
     
