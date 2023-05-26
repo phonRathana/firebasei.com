@@ -156,49 +156,49 @@ content="width=device-width, initial-scales
 chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
 // Use the token.
 });
-<!DOCTYPE html>
-<haed>
-   <body/> </body> dependencies {   ...   implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label>   <html></html>   <body style="background-color:powderblue;"></body>   <table></table> <html></html>                                            <tr></tr>                     <h1></h1>                  <h4></h4>                  <i><i>                  <style></style>               <button>Click Me!</button>            <html></html> httpsrathanaphon.Websiteco.           analytics 4 <body style="background-color:powderblue;"></body>                         <style>bod background-color:powderblue; }</style><script></script> 
 
-     <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="%2F"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-<!-- Integration: Facebook Pixel Code -->
-    <script>
-             !function(f,b,e,v,n,t,s)
-        {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-        n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-        n.queue=[];t=b.createElement(e);t.async=!0;
-        t.src=v;s=b.getElementsByTagName(e)[0];
-        s.parentNode.insertBefore(t,s)}(window, document,'script',
-        'https://connect.facebook.net/en_US/fbevents.js');
-        fbq('init', '');
-        fbq('track', 'PageView');
-      </script>
-    <noscript><img height="1" width="1" style="display:none"
-        src="https://www.facebook.com/tr?id=&ev=PageView&noscript=1"
-    /></noscript>
-    <!-- End Facebook Pixel Code -->
-<!-- Integration: Google Adsense Code -->
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-    <script>
-        (adsbygoogle = window.adsbygoogle || []).push({
-            google_ad_client: "",
-            enable_page_level_ads: true
-        });
-    </script>
-    <!-- End Google Adsense Code -->
-    </head>
 
-    <body>
+
+
+
+   
+ 
+   
+
+
+            
+     
+    
+     
+      
+     
+     
+      
+      
         
-        <input type="hidden" class="__website_id" id="website_id" value="971938">
+     
+    
+
+  
+ 
+
+
+   
         
-                    <input type="hidden" id="businessdetails_id" value="972104">
-  <script type='application/ld+json'>
-    {
+         
+           
+    
+
+
+ 
+
+   
+        
+       
+        
+                    
+ 
+
       
     
      
