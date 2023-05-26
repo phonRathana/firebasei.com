@@ -41,10 +41,10 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-<link media="none" onload="if(media!='all')media='all'"rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.3.5/jquery.fancybox.min.css" />
+       
 
--id googlee9c9e70123469956.      "mobilesdk_app_id":
-"1:244145628679:android:a7f10297db1a854b396ca2",   
-"android_client_info": 
-{apps.googleusercontent.com">"oauth2": {
-"client_id": "665859454684.apps.googleusercontent.com",
+
+ 
+
+
+
