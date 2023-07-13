@@ -85,39 +85,7 @@ content="width=device-width, initial-scales
                             {
                                 }
 								<Your subscription period has now expired. To continue to use websites./https://httpsrathanaphonwebsiteco-"Buy Subscription" below, or for more info login to your
-                                https://httpsrathanaphonwebsiteco account.						
-							      "description": "Business As a loyal partner sell technology",
-              			Buy Subcription
-                description": "Business As a loyal partner sell technology",
-              			Buy Subcription
-							</a>
-							<a href="https:// ./login" class="btn btn-outline-primary">
-								<Login>
-							</a>							
-							<a href="https://href=https://httpsrathanaphonwebsiteco->" class="btn btn-outline-primary" target="_blank">
-							</a>
-						  <br>
-					        Or
-							<br>
-							Use our
-							<a href="https://play.google.com/store/apps/details?id=https://httpsrathanaphonwebsoteco/
-							.websitesapp" class="btn btn-outline-primary" target="_blank">		{$)						Website.https://rathanaphonwebsiteco./App 
-							</a> <i class="fab fa-android"></i>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>		
-		<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js?v=google-site-verification: googlee9c9e70123469956.htmlintegrity=" " crossorigin="anonymous"></script>		
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js?v=1543523304" i
-chrome.identity.getAuthToken({ 'interactive': true }, function(token) {
-// Use the token.
-});
-<!DOCTYPE html>
-<haed>
-   <body/> </body> dependencies {  ... implementation ("com.android.insatalreferrer:intstallteferrer:2.2")<head></head><textarea id="id" name="name" rows="5" cols="50"></textarea><input type="radio" id="male" name="gender" value="male"> <label for="male">Male</label> � <html></html> � <body style="background-color:powderblue;"></body> � <table></table> <html></html>  <tr>$1</tr>  <h1>$1</h1> <h4>$2</h4> <i>$1<i> <style></style>  <button>Click Me!</button> <html></html> httpsrathanaphon.< <" Websiteco.#8098ffanalytics 4 <body style="background-color:powderblue;"></body>  <style>body{ � background-color:powderblue; }</style><script>
-<script>
-     <script type='application/ld+json'>  {
+                            
     
     
      
