@@ -1,0 +1,21 @@
+ *  {  
+      box-sizing: border  
+ } 
+  html body {   
+      margin: 10px;   
+      color: Blue;  
+      margin: square;   
+      text-align: center;   
+ } 
+   .image-container { 
+      margin: 0 auto;  
+      width: 80%; 
+      box-shadow: 0 15px 30px; 
+ } 
+   img {
+     with: 400px;
+     height: 450px;
+ }
+   logo.logo-img { 
+     font-size:50px; 
+ }  
