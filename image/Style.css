@@ -1,5 +1,5 @@
  *  {  
-      box-sizing: border  
+      box-sizing: border;  
  } 
   html body {   
       margin: 10px;   
@@ -13,11 +13,8 @@
       box-shadow: 0 15px 30px; 
  } 
    img {
-     with: 400px;
+     width: 400px;
      height: 450px;
- }
-   logo.logo-img {
-     font-size:50px; 
 }
    main {    
      flex: 1 0 auto;    
