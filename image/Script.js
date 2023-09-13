@@ -1,11 +1,14 @@
-  const { app, BrowserWindow } = require('electron')  
-  const path = require('path')  
+ function onSignIn(googleUser) { 
   
-   function onSignIn(googleUser) {  
+      function  onsignIn () { 
+   var auth2 = gapi.auth2.getAuthInstance(); 
   
-     var profile = googleUser.getBasicProfile();  
-     console.log('ID: ' + profile.getId()); // Do not send to your backend! Use an ID token instead.  
-     console.log('Name: ' + profile.getName());  
-     console.log('Image URL: ' + profile.getImageUrl());  
-     console.log('Email: ' + profile.getEmail()); // This is null if the 'email' scope is not present. 
+  <script type="text/javascript"/> 
+  
+         function onsignIn () 
+           { 
+            document.getElementById("signin").innerHTML.toggle("active"); 
+            document.getElementById("ul").innerHTML.toggle("link"); 
+        } 
+     } 
  }
